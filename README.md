@@ -65,10 +65,3 @@ cp .env.example .env
 python run_trader.py  # dry run first
 # Set LIVE_DRY_RUN=0 to go live
 ```
-
-## Live Results
-
-First deployed on Binance Futures, 10-day track record:
-- Realized PnL: +$180 on $1,500 account
-- Day win rate: 75% (6/8 days positive)
-- Best day: +$80, Worst day: -$46
