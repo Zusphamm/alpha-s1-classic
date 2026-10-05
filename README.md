@@ -21,10 +21,11 @@ Combines Parkinson volatility (high/low range estimator) with Kyle's lambda (mar
 
 | Factor | PnL | Days | $/Day |
 |--------|-----|------|-------|
-| `parkinson|vol30|chg20|-` | $+0.00 | 0 | $+0.000 |
-| `parkinson|vol30|z120|-` | $+0.00 | 0 | $+0.000 |
-| `kyle|lambda|z60|+` | $+0.00 | 0 | $+0.000 |
-| **Total** | **$+0.00** | | |
+| `parkinson_vol30|chg20|-` | $+10.28 | 40 | $+0.257 |
+| `parkinson_vol30|z120|-` | $+8.87 | 40 | $+0.222 |
+| `kyle_lambda|z60|+` | $+5.58 | 28 | $+0.199 |
+| **Total** | **$+24.73** | | |
+
 
 ## Factors (3)
 
